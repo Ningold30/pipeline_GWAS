@@ -55,3 +55,5 @@ if __name__ == "__main__":
   
 	# Call the function to combine and filter the data
 	combine_and_filter(args.input_folder, args.output_file, args.file_prefix, args.file_suffix, args.min_af,  args.min_info, args.num_chrom)
+
+#these are my hanges to the script.
